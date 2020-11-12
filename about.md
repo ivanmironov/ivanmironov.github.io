@@ -6,5 +6,5 @@ These are controlled by `about.md` under the root directory. If you want a more 
 
 ### What's New
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+- 2018: Graduated from the University of Ottawa with a BASc in Mechanical Engineering
+- 2019-2020: working as a technical support engineer
