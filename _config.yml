@@ -1,12 +1,12 @@
-title: Ivan Mironov # The title of the blog
+title: Ivan's Blog # The title of the blog
 author: Ivan Mironov # Your name 
 email: ivanmironov2 at gmail dot com # your email shown in the footer
 url: https://ivanmironov.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
- letters and numbers
+ 
 favicon: #set the favicon of the site "./favicon.ico" 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
   
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
