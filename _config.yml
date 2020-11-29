@@ -4,7 +4,7 @@ email: ivanmironov2 at gmail dot com # your email shown in the footer
 url: https://ivanmironov.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
  
-favicon: #set the favicon of the site "./favicon.ico" 
+favicon: "./favicon.svg" #set the favicon of the site "./favicon.ico" 
 
 show_excerpts: true # set to true to show excerpts on the homepage
   
