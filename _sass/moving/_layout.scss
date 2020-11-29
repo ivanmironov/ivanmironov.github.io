@@ -146,8 +146,8 @@
 }
 
 .home-heading {
-  font-weight: 1000;
-  color: $text-color;
+  font-weight: 800;
+  color: $color-orange;
 
   @media (max-width: 500px) {
     margin-top: 20px;
@@ -159,7 +159,7 @@
 
 .home-sub-heading {
   margin-top: -0.6rem;
-  color: lighten($text-color, 25%);
+  color: lighten($orange-color, 15%);
 
   @media (max-width: 500px) {
     @include relative-font-size(0.8);
