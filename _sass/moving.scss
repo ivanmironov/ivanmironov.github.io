@@ -34,7 +34,7 @@ $on-large: 1100px !default;
 }
 
 // Width of the content area
-$content-width: (max-width: $device)*0.75 !default;
+$content-width: (max-width)*0.75 !default;
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
