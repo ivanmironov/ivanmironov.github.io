@@ -28,7 +28,7 @@ $on-palm: 600px !default;
 $on-laptop: 900px !default;
 
 $on-medium: $on-palm !default;
-$on-large: 1300 !default;
+$on-large: 1300px !default;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
