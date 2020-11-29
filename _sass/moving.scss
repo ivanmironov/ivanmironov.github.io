@@ -22,13 +22,13 @@ $orange-color: #f13e2c !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width: 1300px !default;
+$content-width: 1100px !default;
 
 $on-palm: 600px !default;
 $on-laptop: 900px !default;
 
 $on-medium: $on-palm !default;
-$on-large: 1300px !default;
+$on-large: 1100px !default;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
