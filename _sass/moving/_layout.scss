@@ -159,7 +159,7 @@
 
 .home-sub-heading {
   margin-top: -0.6rem;
-  color: lighten($orange-color, 15%);
+  color: lighten($text-color, 15%);
 
   @media (max-width: 500px) {
     @include relative-font-size(0.8);
@@ -215,7 +215,7 @@
 }
 
 .black-link {
-  color: $text-color;
+  color: $orange-color;
   text-decoration: none;
 
   &:hover {
