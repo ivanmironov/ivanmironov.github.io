@@ -22,7 +22,7 @@ $orange-color: #f13e2c !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width: 950px !default;
+$content-width: (max-width: $device)*0.75 !default;
 
 $on-palm: 600px !default;
 $on-laptop: 900px !default;
