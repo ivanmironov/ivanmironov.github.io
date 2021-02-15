@@ -165,7 +165,7 @@
   -moz-text-fill-color: transparent;
 }
   font-weight: 600;
-  color: $text-color;
+ /* color: $text-color; */
 
   @media (max-width: 500px) {
     margin-top: 20px;
